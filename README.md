@@ -15,13 +15,5 @@ With the ListView widget you can scroll widgets horizonatally or vertically in F
 </a>
 <br />
 
-<a href="https://youtu.be/iT4SzT8HHcU" target="_blank">
-  <img src="https://youtu.be/iT4SzT8HHcU" 
-       alt="InkWell Widget and it's Properties - Flutter Bangla YouTube video" width="480" border="10" />
-</a>
-
-
-<br />
-
 
 
